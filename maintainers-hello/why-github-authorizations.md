@@ -10,7 +10,6 @@ So why do we ask it:
 
 * We need to ensure that you’re truly owner of the GitHub organization (to avoid scams and unpleasant things). If you’re not, we need to you ask the owner (the admin) to grant the access.
 * Github enforces a rate limit on its API \~ 5000 calls/hours. It’s not enough when we have more than 20K repos on our platform that we need to sync, in real time. Hence, to bypass this limitation, we need to use integrations provided by GitHub with the GitHub app.
-  * If you’re keen to read more about this our Head of Engineering made a very detailed doc over here.
 * By accepting the authorizations, you’ll allow us to have “write rights” (tongue twister there!) so that when you assign/unassign issues on our platform, it shows up directly on GitHub.
 
 So, the best way to do that is through the Oauth token feature from the GH app.

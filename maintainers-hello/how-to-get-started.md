@@ -1,6 +1,6 @@
 # How to get started
 
-The process is quite simple (we strive to be).
+The process is quite simple.
 
 All you need is your GitHub account. And your repo(s).
 

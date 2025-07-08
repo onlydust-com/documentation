@@ -6,7 +6,7 @@ We help people contribute to open source. That’s it. Whether you're a contribu
 
 Up till now, people may have known us as the place to contribute to Web3. That’s not wrong - but it’s not the whole story. In 2025, we wanted to change that perception. We're building the platform to contribute to **open source**, full stop.
 
-We’re working to (if not yet done already :wink:):
+We’ve worked to:
 
 * Remove the crypto/web3-only label
 * Bring in projects from across the open source universe (infra, tooling, devtools, AI, etc.)
@@ -15,15 +15,15 @@ We’re working to (if not yet done already :wink:):
 
 **If you're talking about open source and onboarding, OnlyDust should be part of that conversation.**
 
-#### Key initiatives in 2025:
+#### Key initiatives done in 2025 (and the year isn't over yet!):
 
 **1. Matching engine**
 
-Finding a project should take minutes, not weeks. We're building:
+Finding a project should take minutes, not weeks. We've built:
 
 * A contributor onboarding flow that doesn’t suck
-* A project + issue recommendation system (powered by AI, tastefully)
-* Stats for maintainers: who’s looking at your project, who applied, how experienced they are
+* A project + issue recommendation system (powered by AI, obviously)
+* Metrics for maintainers: who’s looking at your project, who applied, how experienced they are
 * A project page that _actually helps_ people decide if they want to contribute
 
 **2. AI-assisted issue creation**
