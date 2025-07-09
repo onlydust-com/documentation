@@ -1,6 +1,6 @@
 # Grant eligibility
 
-Some projects on OnlyDust may be eligible for grant funding. We work with sponsors who support high-impact open source projects and want to see them grow. Grants can reach up to $5,000 over a period of 3 months, based on:&#x20;
+Some projects on OnlyDust may be eligible for grant funding. We work with sponsors who support high-impact open source projects and want to see them grow. Grants can reach up to $5,000 (_it can be higher_) over a period of 3 months, based on:&#x20;
 
 * **Consistent activity**: regular progress on issues, merged PRs, and updates
 * **Contributor engagement**: welcoming and onboarding contributors effectively

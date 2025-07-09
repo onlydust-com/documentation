@@ -18,12 +18,11 @@
   * [Why GitHub authorizations](contributors-hiya/why-github-authorizations.md)
   * [Find your first issue](contributors-hiya/find-your-first-issue.md)
   * [OSS Wave](contributors-hiya/oss-wave.md)
-  * [Best Practices](contributors-hiya/best-practices.md)
-  * [Finding an issue](contributors-hiya/finding-an-issue.md)
+  * [Best Practices - must read](contributors-hiya/best-practices-must-read.md)
   * [OnlyDust Fellowship](contributors-hiya/onlydust-fellowship.md)
 * [Admin stuff](admin-stuff/README.md)
-  * [KYC/KYB](admin-stuff/kyc-kyb.md)
-  * [Fellowship](admin-stuff/fellowship.md)
+  * [KYC/KYB - ID verification](admin-stuff/kyc-kyb-id-verification.md)
+  * [OnlyDust Fellowship - admin](admin-stuff/onlydust-fellowship-admin.md)
   * [Wallets](admin-stuff/wallets.md)
 
 ## Group 1

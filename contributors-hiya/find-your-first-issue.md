@@ -16,7 +16,7 @@ If you're interested in this repo for example, click on it and you'll see more d
 
 If an issue that is open catches your attention, simply click on it and click on the "I want to work on this issue" button on the left hand side of your screen.&#x20;
 
-You'll be directed to ask for authorizations via GitHub ([read here](https://app.gitbook.com/o/MQQDjhOXRySQPsao0aZ0/s/FetEvDuVEZkpYJ6kurbf/~/changes/5/contributors-hiya/why-github-authorizations) as to what is asked). This is to allow us to be able to synchronize your work on GitHub onto the platform.&#x20;
+If it's your first time, you'll be directed to ask for authorizations via GitHub ([read here](https://app.gitbook.com/o/MQQDjhOXRySQPsao0aZ0/s/FetEvDuVEZkpYJ6kurbf/~/changes/5/contributors-hiya/why-github-authorizations) as to what is asked). This is to allow us to be able to synchronize your work on GitHub onto the platform.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-08 at 16.57.37.png" alt=""><figcaption></figcaption></figure>
 
