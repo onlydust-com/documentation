@@ -22,7 +22,7 @@ We have decided to find the biggest problem of the OSS ecosystem. It was money a
 
 After launching a few [prototypes](https://www.notion.so/B2B-Content-Strategy-1af44b682a808099916ec3aa1832c6ce?pvs=21) (not onchain, you guess well), we were ready for the big launch.
 
-<div><figure><img src=".gitbook/assets/Capture d’écran 2025-03-12 à 19.45.56.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Capture d’écran 2025-03-12 à 20.08.43.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 12.17.51.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 12.19.22.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Capture d’écran 2025-03-12 à 19.45.56.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-12 à 20.08.43.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 12.17.51.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 12.19.22.png" alt=""><figcaption></figcaption></figure></div>
 
 #### **2023: Lack of funding is** not the real issue of open-source collaboration
 
@@ -44,7 +44,7 @@ We decided that our focus on grant strategy wasn’t enough, and we raised money
 
 A grand vision can’t be achieved without a great product.
 
-<div><figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 12.23.16.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 12.23.37.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 12.25.26.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 12.59.18.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 13.00.19.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 12.23.16.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 12.23.37.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 12.25.26.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 12.59.18.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 13.00.19.png" alt=""><figcaption></figcaption></figure></div>
 
 #### **2024:** AI can kill the open-source collaboration
 
@@ -74,7 +74,7 @@ At the beginning of the year, contributor were only able to withdraw their rewar
 
 It’s not enough.
 
-<div><figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 17.09.21.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 17.13.20.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 17.15.20.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 17.16.24.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 17.17.17.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 17.09.21.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 17.13.20.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 17.15.20.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 17.16.24.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 17.17.17.png" alt=""><figcaption></figcaption></figure></div>
 
 #### **2025:** AI can solve the collaboration problem
 
@@ -92,4 +92,4 @@ We need to accelerate.
 
 We need to serve the entire OSS ecosystem. Build trust in a very demanding community.
 
-<figure><img src=".gitbook/assets/Capture d’écran 2025-03-21 à 17.19.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-21 à 17.19.23.png" alt=""><figcaption></figcaption></figure>

@@ -1,12 +1,14 @@
 # Wallets
 
-### Getting Paid – How to Set Up Your Wallet (and Not Lose Your Funds)
+This part is for contributors and maintainers that are eligible to grants.
+
+### How to set up your wallet properly (and not lose :moneybag:)
 
 You’re about to receive a Fellowship grant or a project reward through OnlyDust.
 
 That means you’ll get crypto payments (USDC or native tokens), tied to the ecosystem you're contributing to.
 
-Each ecosystem comes with its own network, rules, and currency. So please — read this carefully. Mistakes here can get expensive.
+Each ecosystem comes with its own network, rules, and currency. So please - read this carefully. Mistakes here can get expensive.
 
 #### Step 1 – Check your ecosystem + currency
 
@@ -49,14 +51,12 @@ You have two options:
 
 _Important: If you go with copy/paste, double-check the address. If you send us the wrong wallet address and the funds go missing, there’s nothing we can do to recover them._
 
-So take 30 seconds to be sure — and if you made a mistake, email us ASAP at [admin@onlydust.xyz](mailto:admin@onlydust.xyz) before payment is triggered.
+So take 30 seconds to be sure - and if you made a mistake, email us ASAP at [admin@onlydust.xyz](mailto:admin@onlydust.xyz) before payment is triggered.
 
-#### Final tips
+#### Final but important tips
 
-* Don't try to get paid to a centralized exchange wallet (Binance, Coinbase etc.) — they don’t support ecosystem-native USDC, and we won't chase down your lost funds.
+* Don't try to get paid to a centralized exchange wallet (Binance, Coinbase etc.) - they don’t support ecosystem-native USDC, and we won't chase down your lost funds.
 * Make sure the wallet you give us is one you can access and check regularly.
 * You can always update your wallet later by emailing us, but do it before the next payment wave.
 
 That's it. One wallet, properly set up = smooth payments, no headaches.
-
-We did our part — now it’s your turn.

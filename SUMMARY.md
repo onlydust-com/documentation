@@ -1,11 +1,11 @@
 # Table of contents
 
-* [OnlyDust's Mission](README.md)
-  * [OnlyDust's mission](onlydusts-mission/onlydusts-mission.md)
-  * [Vision & Roadmap](onlydusts-mission/vision-and-roadmap.md)
-  * [Our secrets](onlydusts-mission/our-secrets.md)
-* [History & Story](history-and-story.md)
-* [Team & Jobs](team-and-jobs.md)
+* [OnlyDust Overview](README.md)
+  * [OnlyDust's mission](onlydust-overview/onlydusts-mission.md)
+  * [Vision & Roadmap](onlydust-overview/vision-and-roadmap.md)
+  * [Our secrets](onlydust-overview/our-secrets.md)
+  * [History & Story](onlydust-overview/history-and-story.md)
+  * [Team & Jobs](onlydust-overview/team-and-jobs.md)
 * [Maintainers - hello!](maintainers-hello/README.md)
   * [How to get started](maintainers-hello/how-to-get-started.md)
   * [Why GitHub authorizations](maintainers-hello/why-github-authorizations.md)
@@ -24,7 +24,3 @@
   * [KYC/KYB - ID verification](admin-stuff/kyc-kyb-id-verification.md)
   * [OnlyDust Fellowship - admin](admin-stuff/onlydust-fellowship-admin.md)
   * [Wallets](admin-stuff/wallets.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
