@@ -30,4 +30,4 @@ AI should enhance collaboration, not break it. Instead of drowning in low-qualit
 
 OnlyDust takes the essential dust of what made open source collaboration great - the particles that truly count, only the dust that matters - to build a new AI-native system where collaboration doesn’t just survive but thrives.
 
-To create a new star, you need only dust.
+To create a new (GitHub) star, you need only dust.

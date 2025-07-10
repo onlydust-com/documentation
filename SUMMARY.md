@@ -3,7 +3,7 @@
 * [OnlyDust Overview](README.md)
   * [OnlyDust's mission](onlydust-overview/onlydusts-mission.md)
   * [Vision & Roadmap](onlydust-overview/vision-and-roadmap.md)
-  * [Our secrets](onlydust-overview/our-secrets.md)
+  * [How do we flow](onlydust-overview/how-do-we-flow.md)
   * [History & Story](onlydust-overview/history-and-story.md)
   * [Team & Jobs](onlydust-overview/team-and-jobs.md)
 * [Maintainers - hello!](maintainers-hello/README.md)
