@@ -1,6 +1,6 @@
 # History & Story
 
-#### **2022 :** You don’t crack collaboration by being onchain
+#### **2022:** You don’t crack collaboration by being onchain
 
 After exiting our growth agency with Paco [(Germinal)](https://www.lesechos.fr/start-up/deals/marketing-spaag-rachete-germinal-la-start-up-fondee-par-gregoire-gambatto-1379869), we have decided to build in the web3 space. At this stage, there is something we are passionate about: collaboration. We want to create a decentralized world of work, by using the superpowers of DAOs (”group chats with bank account”). We are sure the future of the collaboration is on-chain.
 
