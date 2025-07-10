@@ -8,6 +8,12 @@ Some projects on OnlyDust may be eligible for grant funding. We work with sponso
 
 We also keep a few grant spots open for promising early-stage projects -especially those that show initiative, strong structure, and responsiveness.
 
+### Where do the grants come from?
+
+The grants come from our sponsors. 72% of these grants go into projects and [fellowship program](../contributors-hiya/onlydust-fellowship.md).
+
+Currently, we have ongoing grants from Starknet, Stellar and Flare Network.&#x20;
+
 ### How to increase your chances
 
 Participation and visibility go hand-in-hand. Here’s what can help you get noticed:&#x20;
