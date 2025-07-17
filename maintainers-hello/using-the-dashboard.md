@@ -12,11 +12,15 @@ Remember, everything is synchronized between GitHub and OnlyDust. So over here, 
 * You can see the discussions in the issue&#x20;
 * You can filter out the issues you would like to see as well as the repo
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-08 at 14.04.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 18.22.10.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you're project is participating in our OSS Wave, you can add the issues you'd like contributors to work on directly here. More info in next section.
+{% endhint %}
 
 * You can see the metrics/reputation of the contributors that have applied to your repo. For example with the below you'll be able to see that the contributor is highly recommended.&#x20;
 
-<figure><img src="../.gitbook/assets/contributormetrics.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-17 à 09.28.31.png" alt=""><figcaption></figcaption></figure>
 
 You can also see their pending applications, when they registered on GitHub and their language proficiencies.&#x20;
 
@@ -39,9 +43,13 @@ What you'll be able to see:
 * when you click on a PR, you'll be taken back onto GitHub to finalize your review and merge or not the PR.
 * then, you can filter the PRs according to whether the PRs are still open, merged, in draft mode or those that you have closed. Better tracking!&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-08 at 14.15.36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 18.17.24.png" alt=""><figcaption></figcaption></figure>
 
-* If you're flooded with PRs, you even have a handy search toolbar&#x20;
+* If you're flooded with PRs, you even have a handy search toolbar to search by title or contributor (author) name.
+
+{% hint style="info" %}
+What are the indicators? If the PR is of good quality, if the PR answered the issue at hand, if tests and CI has been passed.
+{% endhint %}
 
 ### Waves
 

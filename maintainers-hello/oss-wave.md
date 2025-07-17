@@ -8,6 +8,8 @@ We partner with strong repos that are looking to onboard motivated devs to help 
 
 Over 5500 devs & 500 repos (probably more, can’t keep up!) have joined the Wave.
 
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 18.57.07.png" alt=""><figcaption></figcaption></figure>
+
 ### Why participate?&#x20;
 
 It’s the perfect time to attract motivated devs - contributors know maintainers are actively looking during this period.\
@@ -27,6 +29,8 @@ If you have repo(s) that you'd like to have participate in the next Wave, simply
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-08 at 14.51.14.png" alt=""><figcaption></figcaption></figure>
 
 When your repo is accepted, you'll be able to add in the issues you'd like to have contributors help you on (these steps are in the "[Using the dashboard](using-the-dashboard.md)" section).&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 18.21.13.png" alt=""><figcaption></figcaption></figure>
 
 ### Now in more detail
 
