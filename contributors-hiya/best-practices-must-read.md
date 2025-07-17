@@ -59,13 +59,13 @@ When you’re working on an issue, always link your pull request to it. This hel
 In your PR description, include:
 
 ```
-nginxCopyEditFixes #123
+Fixes #123
 ```
 
 or
 
 ```
-nginxCopyEditCloses #123
+Closes #123
 ```
 
 Where `123` is the issue number.
