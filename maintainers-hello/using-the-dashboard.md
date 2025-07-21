@@ -11,6 +11,7 @@ Remember, everything is synchronized between GitHub and OnlyDust. So over here, 
 * You can see those that applied to your issue
 * You can see the discussions in the issue&#x20;
 * You can filter out the issues you would like to see as well as the repo
+* You can add the issues you want to participate to the Wave if your repo was accepted _(more info on that in next section)_
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 18.22.10.png" alt=""><figcaption></figcaption></figure>
 

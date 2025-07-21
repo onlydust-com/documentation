@@ -49,3 +49,8 @@ And boom, when it's live, a whole new page takes action!&#x20;
 * You’ll then have two extra days to review and merge.
 
 Keep us posted along the way. Any frustrations, any questions, or just to say hi.  [Discord](https://discord.gg/sVDvdKqPqN) is the way to go.&#x20;
+
+
+
+{% embed url="https://www.loom.com/share/5ce1e969c360401d88699ac103fd74fe?sid=52e533c1-5e68-4a52-8ae5-ad8e5a1d3263" %}
+
