@@ -48,3 +48,5 @@ Other info:&#x20;
 * Maintainers then have two extra days to review and merge.
 
 All info are sent through our mails (so keep an eye out on that) and on our  [Discord](https://discord.gg/sVDvdKqPqN).&#x20;
+
+{% embed url="https://www.loom.com/share/8a6794359c8748c48588d8d431a693ab?sid=d36ea5ef-b138-4940-87a3-be791cdf5ac3" %}
