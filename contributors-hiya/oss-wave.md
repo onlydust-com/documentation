@@ -22,6 +22,8 @@ Basically, great for your resumé :wink:. &#x20;
 
 **Bonus:** Participating increases your chances to earn perks like fellowship grants and limited-edition merch. ([More info in the OnlyDust Fellowship](onlydust-fellowship.md)).
 
+{% embed url="https://www.loom.com/share/8a6794359c8748c48588d8d431a693ab?sid=d36ea5ef-b138-4940-87a3-be791cdf5ac3" %}
+
 ### How it works
 
 _(Have a look at the using the_ [_Find your first issue_](find-your-first-issue.md) _on step by step details)._&#x20;
@@ -48,5 +50,3 @@ Other info:&#x20;
 * Maintainers then have two extra days to review and merge.
 
 All info are sent through our mails (so keep an eye out on that) and on our  [Discord](https://discord.gg/sVDvdKqPqN).&#x20;
-
-{% embed url="https://www.loom.com/share/8a6794359c8748c48588d8d431a693ab?sid=d36ea5ef-b138-4940-87a3-be791cdf5ac3" %}

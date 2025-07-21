@@ -20,6 +20,8 @@ Many maintainers have found long-term contributors through the OSS Wave, which i
 
 **Bonus:** participating increases your chances to earn perks like grants and limited-edition merch. ([More info in the grant eligibility](grant-eligibility.md)).
 
+{% embed url="https://www.loom.com/share/5ce1e969c360401d88699ac103fd74fe?sid=52e533c1-5e68-4a52-8ae5-ad8e5a1d3263" %}
+
 ### How it works
 
 _(Have a look at the using the_ [_dashboard section_](using-the-dashboard.md) _on step by step details)._&#x20;
@@ -51,6 +53,4 @@ And boom, when it's live, a whole new page takes action!&#x20;
 Keep us posted along the way. Any frustrations, any questions, or just to say hi.  [Discord](https://discord.gg/sVDvdKqPqN) is the way to go.&#x20;
 
 
-
-{% embed url="https://www.loom.com/share/5ce1e969c360401d88699ac103fd74fe?sid=52e533c1-5e68-4a52-8ae5-ad8e5a1d3263" %}
 
