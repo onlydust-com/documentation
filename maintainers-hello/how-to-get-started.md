@@ -27,10 +27,23 @@ You will be asked to give GitHub authorizations for synching your organisation(s
    1. In the "issues inbox" you'll be able to manage your issues, review applicants, track progress. Hence why it's important that you assign your issues!
    2. In the "PR inbox" you can review and merge the PRs directly.&#x20;
    3. In the "Waves" section, you can list your repo(s) to onboard new contributors. [More on this in over here](https://app.gitbook.com/o/MQQDjhOXRySQPsao0aZ0/s/FetEvDuVEZkpYJ6kurbf/~/changes/4/maintainers-hello/oss-wave).
-   4. And then we have cool new things coming up :eyes:.
+   4. And then we have cool new things coming up :eyes:.\
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-07 at 15.56.15.png" alt=""><figcaption></figcaption></figure>
+5. What if you'd like to add another repo to OnlyDust? \
+   a. Head over to the settings under your name.&#x20;
 
-And when you've been all signed up, you’ll get cool emails from our CEO. So that is your first touchpoint. Pretty cool, no?
+![](<../.gitbook/assets/Screenshot 2025-07-29 at 14.09.45.png>)
 
-Your second touchpoint is joining our [community on Discord](https://discord.gg/sVDvdKqPqN).&#x20;
+b. Once you've clicked on settings, you can either add in a new organisation or sync your repos:
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-29 at 14.12.01.png" alt=""><figcaption></figcaption></figure>
+
+c. If you have your organisation there already, go into "synced repositories" and add another repo to sync (click on "edit" to open up a tab to sync other repos):
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-29 at 14.13.36.png" alt=""><figcaption></figcaption></figure>
+
+
+
+And now that you're all signed up, you’ll get cool emails from our CEO. So that is your first touchpoint. Pretty cool, no?
+
+Your second touchpoint is joining our [community on Discord](https://discord.gg/sVDvdKqPqN). \
