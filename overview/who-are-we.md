@@ -1,8 +1,8 @@
 # Who are we
 
-> We help frontier labs to make their models & agents better at code generation. \
-> That’s it. &#x20;
+> We help frontier AI labs to make their models & agents better at code generation.&#x20;
 
+Yep, that's us. \
 But how did we come to this?&#x20;
 
 #### **2023 - 2025:** Become the "Open Source home"
@@ -22,7 +22,7 @@ _**We spent years mastering something most companies never crack: finding elite 
 
 By 2024, we'd distributed $15M to 400 open source projects, building an expertise in what makes truly exceptional code, and how to fund it without micromanagement.&#x20;
 
-Then we moved to San Francisco, and the top AI labs pulled us aside with a problem: "
+Then we moved to San Francisco, and the top AI labs pulled us aside with a problem:&#x20;
 
 They confessed a hard reality: their coding agents were acing toy benchmarks but failing catastrophically on real-world systems, on the kind of intricate, closed-source, deeply contextual code that OnlyDust’s network lived for.&#x20;
 
