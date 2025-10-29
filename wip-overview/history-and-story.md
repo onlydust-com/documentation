@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # History & Story
 
 #### **2022:** You don’t crack collaboration by being onchain

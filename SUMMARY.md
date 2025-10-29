@@ -1,7 +1,7 @@
 # Table of contents
 
 * [WIP Overview](README.md)
-  * [OnlyDust's mission](wip-overview/onlydusts-mission.md)
+  * [Intro](wip-overview/intro.md)
   * [Vision & Roadmap](wip-overview/vision-and-roadmap.md)
   * [How do we flow](wip-overview/how-do-we-flow.md)
   * [History & Story](wip-overview/history-and-story.md)
@@ -25,3 +25,5 @@
   * [KYC/KYB - ID verification](admin-stuff/kyc-kyb-id-verification.md)
   * [OnlyDust Fellowship - admin](admin-stuff/onlydust-fellowship-admin.md)
   * [Wallets](admin-stuff/wallets.md)
+* [Page 1](page-1/README.md)
+  * [Page 3](page-1/page-3.md)

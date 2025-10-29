@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Vision & Roadmap
 
 We help people contribute to open source. That’s it. Whether you're a contributor looking for something meaningful to build, or a maintainer looking for actual humans to help - not bots - we're here.

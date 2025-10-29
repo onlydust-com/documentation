@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How do we flow
 
 A common question we get: how does OnlyDust make money?
