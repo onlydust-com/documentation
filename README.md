@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/1500x500 (2).jpeg
-coverY: 0
----
-
 # OnlyDust Overview
 
 Here are the articles in this section:&#x20;
