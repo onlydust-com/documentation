@@ -140,14 +140,6 @@ Apply anyways and we will discuss if you're selected.&#x20;
 
 <summary>Can I do this alongside my full-time job?</summary>
 
-Here's what we can clarify upfront:
-
-**On the contract structure:**
-
-* Yes, this is B2B (your company ↔ OnlyDust entity), not a donation
-* The contract is 1.5 pages, plain English, designed to be understandable without legal expertise
-* We've had 60+ developers review and sign—common concerns have been addressed in the terms
-
 **On doing this alongside a full-time employment:**
 
 * **Generally, yes, you can** do that in addition to a full time job as long as:
