@@ -1,12 +1,10 @@
-# WIP Overview
+# Overview
 
 Here are the articles in this section:&#x20;
 
-* [OnlyDust's mission](wip-overview/intro.md)
-* [Vision & Roadmap](wip-overview/vision-and-roadmap.md)
-* [How de we flow](wip-overview/how-do-we-flow.md)
-* [History & Story](wip-overview/history-and-story.md)
-* [Team & Jobs](wip-overview/team-and-jobs.md)
+* [Intro](https://docs.onlydust.com/~/revisions/wEPnwAbw9Qx8n3g5zJL3/overview/intro)
+* [History & story ](https://docs.onlydust.com/~/revisions/uxgoIhWZHG8NrpMsRfE3/overview/history-and-story)
+* [Team & Jobs](https://docs.onlydust.com/~/revisions/uxgoIhWZHG8NrpMsRfE3/overview/team-and-jobs)
 
 
 
