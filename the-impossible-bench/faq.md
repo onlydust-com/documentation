@@ -1,3 +1,9 @@
+---
+description: >-
+  The questions you might have - this is regularly updated. Contact us if you
+  can't find your answer here.
+---
+
 # FAQ
 
 ### :question: Not sure I understand the program&#x20;
