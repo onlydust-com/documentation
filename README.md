@@ -2,8 +2,7 @@
 
 Here are the articles in this section:&#x20;
 
-* [Intro](https://docs.onlydust.com/~/revisions/wEPnwAbw9Qx8n3g5zJL3/overview/intro)
-* [History & story ](https://docs.onlydust.com/~/revisions/uxgoIhWZHG8NrpMsRfE3/overview/history-and-story)
+* [Who are we](https://docs.onlydust.com/~/revisions/7IdkIjSMdhNXMn2ADS1I/overview/who-are-we)
 * [Team & Jobs](https://docs.onlydust.com/~/revisions/uxgoIhWZHG8NrpMsRfE3/overview/team-and-jobs)
 
 

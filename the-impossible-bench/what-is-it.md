@@ -1,4 +1,4 @@
-# OnlyDust's mission
+# What is it
 
 Some claim that fully autonomous SWE is around the corner, that devs will be useless in a few months.
 
