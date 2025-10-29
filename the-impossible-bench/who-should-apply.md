@@ -12,6 +12,8 @@ Below are some key traits of ideal candidates:
 * **Your project is closed source (for now),** you can open source it later (ideally after 12 months), but it needs to stay private during the grant period
 * **You’re not in it just for the money**: the €30k/year grant (paid quarterly) is meant to _enable_ your vision, not replace a salary. We fund builders, not contractors.
 
+{% hint style="info" %}
 If this sounds like you, or if you’re unsure but your code regularly makes AI “give up”, apply anyway. Many of our strongest candidates initially thought, _“My project isn’t hard enough.”_ \
 Spoiler: it probably is. Don't self reject.&#x20;
+{% endhint %}
 

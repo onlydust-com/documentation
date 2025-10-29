@@ -1,7 +1,7 @@
 # Who are we
 
-We help frontier labs to make their models & agents better at code generation. \
-That’s it. &#x20;
+> We help frontier labs to make their models & agents better at code generation. \
+> That’s it. &#x20;
 
 But how did we come to this?&#x20;
 

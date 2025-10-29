@@ -14,4 +14,4 @@ Here’s exactly what you get if selected for the Impossible Benchmark Program:
 
 
 
-**In short: You get paid to do what you’re already passionate about, while teaching AI where it still falls short.**
+> **In short: You get paid to do what you’re already passionate about, while teaching AI where it still falls short.**

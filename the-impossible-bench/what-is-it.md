@@ -22,4 +22,4 @@ From this work, we will create the ultimate benchmark.
 
 A coding benchmark, with a 0% success rate from LLMs.
 
-_**Never bet against humanity.**_
+#### _**Never bet against humanity.**_

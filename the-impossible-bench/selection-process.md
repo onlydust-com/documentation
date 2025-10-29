@@ -8,7 +8,7 @@
 * Review contract terms and confirm understanding.
 * If suitable, schedule the technical interview.
 
-<sub>_With JB - Head of DevRel_</sub>
+<sub>_With JB - head of devRel_</sub>
 
 ***
 
