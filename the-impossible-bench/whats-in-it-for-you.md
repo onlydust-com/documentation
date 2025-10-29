@@ -1,4 +1,4 @@
-# What's in it for youaa
+# What's in it for you
 
 Here’s what you get if selected for the Impossible Benchmark Program:
 

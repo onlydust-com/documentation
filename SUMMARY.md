@@ -26,7 +26,7 @@
   * [Wallets](admin-stuff/wallets.md)
 * [The impossible Bench](the-impossible-bench/README.md)
   * [What is it](the-impossible-bench/what-is-it.md)
-  * [What's in it for youaa](the-impossible-bench/whats-in-it-for-youaa.md)
+  * [What's in it for you](the-impossible-bench/whats-in-it-for-you.md)
   * [Who should apply](the-impossible-bench/who-should-apply.md)
   * [Selection Process](the-impossible-bench/selection-process.md)
   * [Admin stuff](the-impossible-bench/admin-stuff.md)
