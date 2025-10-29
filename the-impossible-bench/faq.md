@@ -140,8 +140,6 @@ Apply anyways and we will discuss if you're selected.&#x20;
 
 <summary>Can I do this alongside my full-time job?</summary>
 
-**On doing this alongside a full-time employment:**
-
 * **Generally, yes, you can** do that in addition to a full time job as long as:
   * Your employment contract doesn't have an strict exclusivity clause preventing side projects
   * You're not working on something that directly competes with your employer
