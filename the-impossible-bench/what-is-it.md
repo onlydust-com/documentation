@@ -2,7 +2,7 @@
 
 Some claim that fully autonomous SWE is around the corner, that devs will be useless in a few months.
 
-**“we just killed software engineering”**
+**“We just killed software engineering.”**
 
 Their sales pitch? Saturated benchmarks.\
 But these evaluations don’t represent the work we do every day as great engineers on a complex codebase.

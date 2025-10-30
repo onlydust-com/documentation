@@ -1,7 +1,5 @@
 # Selection Process
 
-
-
 #### 1. Initial Meeting
 
 * Assess motivation, project potential (6+ months), and time commitment (10–15 h/week).
@@ -25,7 +23,7 @@
 * Evaluate project complexity, technical potential, and code quality.
 * Reviewers provide written feedback and a recommendation within 24 hours.
 
-<sub>_With either Antho or Olivier - both senior back end engineers_</sub>&#x20;
+<sub>_With either Antho or Olivier, both senior back-end engineers_</sub>&#x20;
 
 ***
 

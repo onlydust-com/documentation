@@ -23,8 +23,6 @@ description: >-
 * Are you delivering what you said you would at quarterly reviews?
 * Is the code quality maintaining standards?
 
-
-
 </details>
 
 <details>
@@ -57,7 +55,7 @@ What you can do instead:
 
 <summary>I would make more money freelancing, the pay is not high enough</summary>
 
-You're right. If that if this were a freelance contract, the rate would be low. \
+You're right. If this were a freelance contract, the rate would be low. \
 But here's the key difference: **this is a grant to fund a project you'd build anyway, not payment for contract work. This is NOT A PAY, it's a grant.** \
 \
 Think of it this way:&#x20;
@@ -74,7 +72,7 @@ If your goal is to maximize hourly rate, freelancing is definitely better. But i
 
 <summary>I want a full-time job, not a grant</summary>
 
-This isn't  employement - it's funding for independent builders.
+This isn't employment - it's funding for independent builders.
 
 **What this is:**
 
@@ -92,13 +90,13 @@ This isn't  employement - it's funding for independent builders.
 
 * The SF trip for top performers might lead to intros with labs who ARE hiring
 * Your project could become a business you run full-time (many past grant recipients did this)
-* Working on this kind of initiative is a great signal for employers and definitively something you can flex about on your resume
+* Working on this kind of initiative is a great signal for employers and definitely something you can flex about on your resume
 
 </details>
 
 <details>
 
-<summary>Can I use AI extensively to code on my project ? </summary>
+<summary>Can I use AI extensively to code on my project? </summary>
 
 The problem with AI-heavy development for our use case:
 
@@ -129,8 +127,8 @@ Bottom line: We're paying you to write code that AI can't write yet. If AI is wr
 
 <summary>I work in a team / want to collaborate with others</summary>
 
-This is not an issue,  many options are possible to make this work.\
-Apply anyways and we will discuss if you're selected.&#x20;
+This is not an issue; many options are possible to make this work.\
+Apply anyway, and we will discuss if you're selected.&#x20;
 
 </details>
 
@@ -140,26 +138,26 @@ Apply anyways and we will discuss if you're selected.&#x20;
 
 <summary>Can I do this alongside my full-time job?</summary>
 
-* **Generally, yes, you can** do that in addition to a full time job as long as:
-  * Your employment contract doesn't have an strict exclusivity clause preventing side projects
+* **Generally, yes, you can** do that in addition to a full-time job as long as:
+  * Your employment contract doesn't have a strict exclusivity clause preventing side projects
   * You're not working on something that directly competes with your employer
   * You're doing this on your own time (evenings/weekends)
-* **Many of our developers have full time jobs,** this is specifically designed for people with day jobs who code on side projects
+* **Many of our developers have full-time jobs;** this is specifically designed for people with day jobs who code on the side projects
 * Your employer typically can't prevent you from working on personal projects unless explicitly stated in your contract
 
 </details>
 
 <details>
 
-<summary>Do I need to create a legal status for legal compliance and handle taxation ? </summary>
+<summary>Do I need to create a legal status for legal compliance and handle taxation? </summary>
 
-Usually yes but it depends on where you're currently living. We have experience with this kind of topic and can help.&#x20;
+Usually, yes, but it depends on where you're currently living. We have experience with this kind of topic and can help.&#x20;
 
 </details>
 
 <details>
 
-<summary>The licensing terms bother me : indefinite exclusive license for AI use</summary>
+<summary>The licensing terms bother me: indefinite exclusive license for AI use</summary>
 
 Let's break down what the license actually means, because we drafted it to be as developer-friendly as possible while meeting lab requirements:
 
@@ -185,9 +183,9 @@ Let's break down what the license actually means, because we drafted it to be as
 
 **Why this structure?**
 
-* Labs need assurance the benchmark won't be contaminated by open-sourcing too early
-* You need assurance you're not signing away your business future
-* The contract is 1.5 pages in plain English,if a sentence confuses you, it's our fault, not legalese
+* Labs need assurance that the benchmark won't be contaminated by open-sourcing too early
+* You need assurance that you're not signing away your business future
+* The contract is 1.5 pages in plain English, if a sentence confuses you, it's our fault, not legalese
 
 **Context matters:** This isn't a typical "company wants your IP" situation. We're not building products with your code. We're using it to measure where AI fails so it can improve. You get paid, keep your upside, and help advance the field.
 
