@@ -1,6 +1,6 @@
 # Who are we
 
-> We help frontier AI labs to make their models & agents better at code generation.&#x20;
+> We find and fund elite developers working on side projects that are so complex that AIs/agents fail to help them code.
 
 Yep, that's us. \
 But how did we come to this?&#x20;
@@ -28,9 +28,7 @@ They confessed a hard reality: their coding agents were acing toy benchmarks but
 
 That’s when it clicked.&#x20;
 
-Our community wasn’t just building open-source software; they were unintentionally stress-testing the limits of artificial intelligence.
-
-So we made a bold choice. We reoriented everything toward a new mission: funding engineers whose code breaks AI.&#x20;
+We reoriented everything toward a new mission: funding engineers whose code breaks AI.&#x20;
 
 Today, OnlyDust (operating under our Ctrl+G brand for AI labs) partners with the world’s top research teams to turn elite, private codebases into the most rigorous coding benchmarks ever built.
 
